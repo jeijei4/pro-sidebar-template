@@ -5,9 +5,9 @@ Responsive sidebar template with dropdown menu based on bootstrap framwork.
 ![Pro Sidebar](https://user-images.githubusercontent.com/25878302/57788668-c5fb5400-7737-11e9-91b7-7fd02703774c.png)
 
 ## Resources
-*   [Bootstrap](https://getbootstrap.com/)
-*   [JQuery](http://jquery.com/)
-*   [Font awesome](http://fontawesome.io/)
+*   [Bootstrap](https://getbootstrap.com/docs/4.4/getting-started/download/#bootstrapcdn)
+*   [JQuery](https://jquery.com/)
+*   [Font awesome](https://fontawesome.com)
 *   [Malihu custom scrollbar plugin](https://github.com/malihu/malihu-custom-scrollbar-plugin)
 
 ## License
