@@ -1,7 +1,7 @@
 
  # Pro sidebar template
 
-Responsive sidebar template with dropdown menu based on bootstrap framwork.
+Responsive sidebar template with dropdown menu based on bootstrap framework.
 ![Pro Sidebar](https://user-images.githubusercontent.com/25878302/57788668-c5fb5400-7737-11e9-91b7-7fd02703774c.png)
 
 ## Resources
